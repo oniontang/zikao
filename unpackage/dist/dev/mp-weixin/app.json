@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/school/school",
+    "pages/school/major/major",
+    "pages/schedule/schedule",
+    "pages/information/information",
+    "pages/information/details/details"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "自考查",
+    "navigationBarBackgroundColor": "#168B71",
+    "backgroundColor": "#168B71"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap51.json"
+}

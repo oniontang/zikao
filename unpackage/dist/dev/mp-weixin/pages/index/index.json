@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "自考查",
+  "usingComponents": {
+    "u-search": "/uview-ui/components/u-search/u-search"
+  }
+}

@@ -1,0 +1,49 @@
+{
+	"easycom":{
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "自考查"
+			}
+		},
+		{
+			"path":"pages/school/school",
+			"style": {
+				"navigationBarTitleText": "主考院校"
+			}
+		},
+		{
+			"path":"pages/school/major/major",
+			"style": {
+				"navigationBarTitleText": "考试课程"
+			}
+		},
+		{
+			"path":"pages/schedule/schedule",
+			"style": {
+				"navigationBarTitleText": "考试日程"
+			}
+		},
+		{
+			"path":"pages/information/information",
+			"style": {
+				"navigationBarTitleText": "考试资讯"
+			}
+		},
+		{
+			"path":"pages/information/details/details",
+			"style": {
+				"navigationBarTitleText": "资讯详情"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "#FFFFFF",
+		"navigationBarTitleText": "自考查",
+		"navigationBarBackgroundColor": "#168B71",
+		"backgroundColor": "#168B71"
+	}
+}

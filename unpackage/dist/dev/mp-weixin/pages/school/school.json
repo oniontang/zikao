@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "主考院校",
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "自考查",
+    "navigationBarBackgroundColor": "#168B71",
+    "backgroundColor": "#168B71"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
